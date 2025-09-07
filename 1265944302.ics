@@ -1,0 +1,147 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//PNPU Schedule Bot//
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:-1085_2025-09-08_1
+DTSTAMP:20250907T195817Z
+DTSTART:20250908T053000Z
+DTEND:20250908T065000Z
+SUMMARY:АФП-25\, Е-25\, ЕВ-25\, Ж-25\, КН-25\, НФП-25\, ПБі-25\, ПЕ-25
+ \, ПМ-25\, ПХ-25\, ФКС-25/1\, ФКС-25/2\, ХМ-25 Історія української дер
+ жавності (Л) 16/ Корпус I Момот Анастасія Олександрівна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-08_2
+DTSTAMP:20250907T195817Z
+DTSTART:20250908T070000Z
+DTEND:20250908T082000Z
+SUMMARY:( 1) Практика усного і писемного мовлення (англійська мова) (П
+ рС) 411/ Корпус II Рахно Михайло Юрійович ( 2) Практика усного і писем
+ ного мовлення (англійська мова) (ПрС) 431/ Корпус II Шрамко Руслана Гр
+ игорівна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-09_2
+DTSTAMP:20250907T195817Z
+DTSTART:20250909T070000Z
+DTEND:20250909T082000Z
+SUMMARY:Практична фонетика англійської мови (ПрС) 310/ Корпус II Прийм
+ а Лада Юріївна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-09_3
+DTSTAMP:20250907T195817Z
+DTSTART:20250909T084000Z
+DTEND:20250909T100000Z
+SUMMARY:АФП-25\, Е-25\, ЕВ-25\, Ж-25\, КН-25\, НФП-25\, ПБі-25\, ПЕ-25
+ \, ПМ-25\, ПХ-25\, ФКС-25/1\, ФКС-25/2\, ХМ-25 Історія української дер
+ жавності (Л) 46/ Корпус I Момот Анастасія Олександрівна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-10_1
+DTSTAMP:20250907T195817Z
+DTSTART:20250910T053000Z
+DTEND:20250910T065000Z
+SUMMARY:Практична фонетика англійської мови (ПрС) 411/ Корпус II Прийм
+ а Лада Юріївна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-10_2
+DTSTAMP:20250907T195817Z
+DTSTART:20250910T070000Z
+DTEND:20250910T082000Z
+SUMMARY:Синх1к1Л Вступ до германського мовознавства (Л) 310/ Корпус II
+  Рахно Михайло Юрійович
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-10_3
+DTSTAMP:20250907T195817Z
+DTSTART:20250910T084000Z
+DTEND:20250910T100000Z
+SUMMARY:АФП-25\, Е-25\, Ж-25\, КН-25\, КП-25/1\, КП-25/2\, НФП-25\, П-
+ 25/1\, П-25/2\, ПП-25 Українська мова в сучасній комунікації (Л) 326/ 
+ Корпус II Дейна Людмила Володимирівна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-11_1
+DTSTAMP:20250907T195817Z
+DTSTART:20250911T053000Z
+DTEND:20250911T065000Z
+SUMMARY:( 1) Практика усного і писемного мовлення (англійська мова) (П
+ рС) 411/ Корпус II Рахно Михайло Юрійович ( 2) Практика усного і писем
+ ного мовлення (англійська мова) (ПрС) 431/ Корпус II Шрамко Руслана Гр
+ игорівна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-11_2
+DTSTAMP:20250907T195817Z
+DTSTART:20250911T070000Z
+DTEND:20250911T082000Z
+SUMMARY:АФП-25\, Е-25\, ЕВ-25\, Ж-25\, КМ-25\, КН-25\, НФП-25\, ПБі-25
+ \, ПЕ-25\, ПМ-25\, ПХ-25\, Ф-25\, ФКС-25/1\, ФКС-25/2\, ХМ-25 Філософі
+ я (Л) 314/ Корпус II Кравченко Петро Анатолійович
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-12_2
+DTSTAMP:20250907T195817Z
+DTSTART:20250912T070000Z
+DTEND:20250912T082000Z
+SUMMARY:Практична граматика англійської мови (ПрС) 310/ Корпус II Тимі
+ нська Ірина Миколаївна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1085_2025-09-12_3
+DTSTAMP:20250907T195817Z
+DTSTART:20250912T084000Z
+DTEND:20250912T100000Z
+SUMMARY:АФП-25\, Е-25\, Ж-25\, КН-25\, КП-25/1\, КП-25/2\, НФП-25\, П-
+ 25/1\, П-25/2\, ПП-25 Українська мова в сучасній комунікації (Л) 326/ 
+ Корпус II Дейна Людмила Володимирівна
+DESCRIPTION:Аудиторія: \nВикладач: 
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
