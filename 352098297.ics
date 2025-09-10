@@ -5,10 +5,11 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:-720_2025-09-10_3
-DTSTAMP:20250910T180406Z
+DTSTAMP:20250910T202734Z
 DTSTART:20250910T084000Z
 DTEND:20250910T100000Z
-SUMMARY:Теоретична фізика (Л)
+SUMMARY:Теоретична фізика  121/ Корпус II Хорольський Олексій Вікторов
+ ич
 DESCRIPTION:Аудиторія: \nВикладач: 
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -16,11 +17,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:-720_2025-09-10_4
-DTSTAMP:20250910T180406Z
+DTSTAMP:20250910T202734Z
 DTSTART:20250910T101000Z
 DTEND:20250910T113000Z
-SUMMARY:ІМзПСФМФ Іноземна мова (за професійним спрямуванням) (ПрС) Тре
- нінговий центр ка/ Гуртожиток №
+SUMMARY:ІМзПСФМФ Іноземна мова  (ПрС) Тренінговий центр ка/ Гуртожиток
+  №4 Черчата Лідія Михайлівна
 DESCRIPTION:Аудиторія: \nВикладач: 
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -28,11 +29,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:-720_2025-09-11_5
-DTSTAMP:20250910T180406Z
+DTSTAMP:20250910T202734Z
 DTSTART:20250911T114000Z
 DTEND:20250911T130000Z
-SUMMARY:В41001л1 Педагогіка сімейного виховання (Л) 314/ Корпус II Мок
- ляк Володимир Миколайович
+SUMMARY:В41001л1 Педагогіка сімейного виховання  314/ Корпус II Мокляк
+  Володимир Миколайович
 DESCRIPTION:Аудиторія: \nВикладач: 
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -40,11 +41,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:-720_2025-09-12_1
-DTSTAMP:20250910T180406Z
+DTSTAMP:20250910T202734Z
 DTSTART:20250912T053000Z
 DTEND:20250912T065000Z
-SUMMARY:В410221 Вибрані питання шкільного курсу математики (ПрС) 103/ 
- Корпус II Коваленко Олена Володимирівна 2
+SUMMARY:В410221 Вибрані питання шкільного курсу математики  103/ Корпу
+ с II Коваленко Олена Володимирівна
 DESCRIPTION:Аудиторія: \nВикладач: 
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -52,11 +53,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:-720_2025-09-15_4
-DTSTAMP:20250910T180406Z
+DTSTAMP:20250910T202734Z
 DTSTART:20250915T101000Z
 DTEND:20250915T113000Z
-SUMMARY:ІМзПСФМФ Іноземна мова (за професійним спрямуванням) (ПрС) Тре
- нінговий центр ка/ Гуртожиток №
+SUMMARY:ІМзПСФМФ Іноземна мова  (ПрС) Тренінговий центр ка/ Гуртожиток
+  №4 Черчата Лідія Михайлівна
 DESCRIPTION:Аудиторія: \nВикладач: 
 SEQUENCE:0
 STATUS:CONFIRMED
@@ -64,11 +65,11 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 UID:-720_2025-09-16_4
-DTSTAMP:20250910T180406Z
+DTSTAMP:20250910T202734Z
 DTSTART:20250916T101000Z
 DTEND:20250916T113000Z
-SUMMARY:В41001л1 Педагогіка сімейного виховання (Л) 314/ Корпус II Мок
- ляк Володимир Миколайович 5
+SUMMARY:В41001л1 Педагогіка сімейного виховання  314/ Корпус II Мокляк
+  Володимир Миколайович
 DESCRIPTION:Аудиторія: \nВикладач: 
 SEQUENCE:0
 STATUS:CONFIRMED
