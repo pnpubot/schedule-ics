@@ -4,264 +4,108 @@ PRODID:-//PNPU Schedule Bot//
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:-866_2025-09-22_4
-DTSTAMP:20250920T081915Z
-DTSTART:20250922T101000Z
-DTEND:20250922T113000Z
-SUMMARY:Л Вокально-технічні прийоми естрадного виконавства (Л)
-DESCRIPTION:Викладач: Шершова Тетяна Вікторівна
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-22_5
-DTSTAMP:20250920T081915Z
-DTSTART:20250922T114000Z
-DTEND:20250922T130000Z
-SUMMARY:Л Методика викладання сольного співу (Л)
-DESCRIPTION:Викладач: Шершова Тетяна Вікторівна
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-22_7
-DTSTAMP:20250920T081915Z
-DTSTART:20250922T144000Z
-DTEND:20250922T160000Z
-SUMMARY:Вокальний естрадний ансамбль (ПрС) Дерев`янка Віталій Віталійо
- вич В21050л1 Фізика розчинів полімерів (Л)
-DESCRIPTION:Аудиторія: 102/ Корпус II\nВикладач: Хорольський Олексій В
- ікторович
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-22_8
-DTSTAMP:20250920T081915Z
-DTSTART:20250922T161000Z
-DTEND:20250922T173000Z
-SUMMARY:004л1 Технології дистанційного навчання у вищій школі (Л) 314/
-  Корпус II Кононович Тетяна Олександрівна Ідентифікатор 7954206164\, п
- ароль 12345
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-23_3
-DTSTAMP:20250920T081915Z
-DTSTART:20250923T084000Z
-DTEND:20250923T100000Z
-SUMMARY:Вокально-технічні прийоми естрадного виконавства (ПрС)
-DESCRIPTION:Викладач: Шершова Тетяна Вікторівна
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-23_4
-DTSTAMP:20250920T081915Z
+UID:-1140_2025-09-23_4
+DTSTAMP:20250923T073732Z
 DTSTART:20250923T101000Z
 DTEND:20250923T113000Z
-SUMMARY:011л1 Адаптивна фізична культура (Л) 8/ IV (Спорткомплекс)
-DESCRIPTION:Викладач: Хоменко Павло Віталійович
+SUMMARY:Іншомовне академічне письмо (Л)
+DESCRIPTION:Аудиторія: 39/ Корпус I\nВикладач: Петрушова Наталія Вікто
+ рівна
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-23_5
-DTSTAMP:20250920T081915Z
-DTSTART:20250923T114000Z
-DTEND:20250923T130000Z
-SUMMARY:Л Методика викладання сольного співу (Л) Шершова Тетяна Віктор
- івна  В210041 Технології дистанційного навчання у вищій школі (ПрС) 10
- 2/ Корпус II Кононович Тетяна Олександрівна Ідентифікатор 7954206164\,
-  пароль 12345
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-23_6
-DTSTAMP:20250920T081915Z
-DTSTART:20250923T131000Z
-DTEND:20250923T143000Z
-SUMMARY:015л1 Біологічні аспекти фізичної культури і спорту (Л)
-DESCRIPTION:Аудиторія: 57/ Корпус I\nВикладач: Денисовець Тамара Михай
- лівна
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-23_8
-DTSTAMP:20250920T081915Z
+UID:-1140_2025-09-23_8
+DTSTAMP:20250923T073732Z
 DTSTART:20250923T161000Z
 DTEND:20250923T173000Z
-SUMMARY:003л1 Штучний інтелект: теорія та практика застосування в осві
- тньому процесі (Л)
-DESCRIPTION:Аудиторія: 314/ Корпус II\nВикладач: Мокляк Володимир Мико
- лайович
+SUMMARY:Методологія та організація наукових досліджень (Л)
+DESCRIPTION:Аудиторія: 109/ Корпус II\nВикладач: Барболіна Тетяна Мико
+ лаївна
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-24_1
-DTSTAMP:20250920T081915Z
-DTSTART:20250924T053000Z
-DTEND:20250924T065000Z
-SUMMARY:0112 Адаптивна фізична культура (ПрС) 3/ IV (Спорткомплекс)
-DESCRIPTION:Викладач: Хоменко Павло Віталійович
+UID:-1140_2025-09-24_7
+DTSTAMP:20250923T073732Z
+DTSTART:20250924T144000Z
+DTEND:20250924T160000Z
+SUMMARY:лп Фізика макромолекул (Л)
+DESCRIPTION:Аудиторія: 105/ Корпус II\nВикладач: Хорольський Олексій В
+ ікторович
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-24_4
-DTSTAMP:20250920T081915Z
-DTSTART:20250924T101000Z
-DTEND:20250924T113000Z
-SUMMARY:Л Вокально-технічні прийоми естрадного виконавства (Л)
-DESCRIPTION:Викладач: Шершова Тетяна Вікторівна
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-24_5
-DTSTAMP:20250920T081915Z
-DTSTART:20250924T114000Z
-DTEND:20250924T130000Z
-SUMMARY:Л Методика викладання сольного співу (Л)
-DESCRIPTION:Викладач: Шершова Тетяна Вікторівна
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-24_6
-DTSTAMP:20250920T081915Z
-DTSTART:20250924T131000Z
-DTEND:20250924T143000Z
-SUMMARY:Вокальний естрадний ансамбль (ПрС) Дерев`янка Віталій Віталійо
- вич В210031 Штучний інтелект: теорія та практика застосування в освітн
- ьому процесі (ПрС)
-DESCRIPTION:Аудиторія: 109/ Корпус II\nВикладач: Мокляк Володимир Мико
- лайович
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-24_8
-DTSTAMP:20250920T081915Z
-DTSTART:20250924T161000Z
-DTEND:20250924T173000Z
-SUMMARY:Методика викладання сольного естрадного співу (ПрС) Дерев`янка
-  Віталій Віталійович В21011л1 Адаптивна фізична культура (Л) 3/ IV (Сп
- орткомплекс)
-DESCRIPTION:Викладач: Хоменко Павло Віталійович
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-25_2
-DTSTAMP:20250920T081915Z
-DTSTART:20250925T070000Z
-DTEND:20250925T082000Z
-SUMMARY:0112 Адаптивна фізична культура (ПрС) 4/ IV (Спорткомплекс)
-DESCRIPTION:Викладач: Хоменко Павло Віталійович
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-25_3
-DTSTAMP:20250920T081915Z
+UID:-1140_2025-09-25_3
+DTSTAMP:20250923T073732Z
 DTSTART:20250925T084000Z
 DTEND:20250925T100000Z
-SUMMARY:Вокально-технічні прийоми естрадного виконавства (ПрС)
-DESCRIPTION:Викладач: Шершова Тетяна Вікторівна
+SUMMARY:Іншомовне академічне письмо (Л)
+DESCRIPTION:Аудиторія: 42/ Корпус I\nВикладач: Петрушова Наталія Вікто
+ рівна
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-25_4
-DTSTAMP:20250920T081915Z
+UID:-1140_2025-09-25_4
+DTSTAMP:20250923T073732Z
 DTSTART:20250925T101000Z
 DTEND:20250925T113000Z
-SUMMARY:0151 Біологічні аспекти фізичної культури і спорту (ПрС)
-DESCRIPTION:Аудиторія: 57/ Корпус I\nВикладач: Денисовець Тамара Михай
- лівна
+SUMMARY:Психологія профільної середньої освіти (Л)
+DESCRIPTION:Аудиторія: 39/ Корпус I\nВикладач: Яланська Світлана Павлі
+ вна
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-25_6
-DTSTAMP:20250920T081915Z
+UID:-1140_2025-09-25_6
+DTSTAMP:20250923T073732Z
 DTSTART:20250925T131000Z
 DTEND:20250925T143000Z
-SUMMARY:Л Вокальний естрадний ансамбль (Л) Московка (с) Євген Микитови
- ч В210501 Фізика розчинів полімерів (ПрС)
-DESCRIPTION:Аудиторія: 105/ Корпус II\nВикладач: Хорольський Олексій В
- ікторович
+SUMMARY:Л Антикорупція та доброчесність (Л)
+DESCRIPTION:Аудиторія: 43/ Корпус I\nВикладач: Жалій Тамара Віталіївна
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-25_8
-DTSTAMP:20250920T081915Z
-DTSTART:20250925T161000Z
-DTEND:20250925T173000Z
-SUMMARY:Вокальний естрадний ансамбль (ПрС) Дерев`янка Віталій Віталійо
- вич В21003л1 Штучний інтелект: теорія та практика застосування в освіт
- ньому процесі (Л)
-DESCRIPTION:Аудиторія: 314/ Корпус II\nВикладач: Мокляк Володимир Мико
- лайович
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-26_2
-DTSTAMP:20250920T081915Z
-DTSTART:20250926T070000Z
-DTEND:20250926T082000Z
-SUMMARY:0112 Адаптивна фізична культура (ПрС) 6/ Гуртожиток №3
-DESCRIPTION:Викладач: Хоменко Павло Віталійович
-SEQUENCE:0
-STATUS:CONFIRMED
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-UID:-866_2025-09-26_6
-DTSTAMP:20250920T081915Z
+UID:-1140_2025-09-26_6
+DTSTAMP:20250923T073732Z
 DTSTART:20250926T131000Z
 DTEND:20250926T143000Z
-SUMMARY:0501 Фізика розчинів полімерів (ПрС)
-DESCRIPTION:Аудиторія: 105/ Корпус II\nВикладач: Хорольський Олексій В
- ікторович
+SUMMARY:лп Формування природничо-наукової грамотності засобами фізики 
+ (Л)
+DESCRIPTION:Аудиторія: 314/ Корпус II\nВикладач: Саєнко Олег Васильови
+ ч
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-UID:-866_2025-09-26_8
-DTSTAMP:20250920T081915Z
-DTSTART:20250926T161000Z
-DTEND:20250926T173000Z
-SUMMARY:004л1 Технології дистанційного навчання у вищій школі (Л) 314/
-  Корпус II Кононович Тетяна Олександрівна Ідентифікатор 7954206164\, п
- ароль 12345
+UID:-1140_2025-09-29_5
+DTSTAMP:20250923T073732Z
+DTSTART:20250929T114000Z
+DTEND:20250929T130000Z
+SUMMARY:Педагогіка профільної середньої освіти (Л)
+DESCRIPTION:Аудиторія: 39/ Корпус I\nВикладач: Петренко Леся Миколаївн
+ а
+SEQUENCE:0
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+UID:-1140_2025-09-29_6
+DTSTAMP:20250923T073732Z
+DTSTART:20250929T131000Z
+DTEND:20250929T143000Z
+SUMMARY:Л Антикорупція та доброчесність (Л)
+DESCRIPTION:Аудиторія: 46/ Корпус I\nВикладач: Жалій Тамара Віталіївна
 SEQUENCE:0
 STATUS:CONFIRMED
 TRANSP:OPAQUE
